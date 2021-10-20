@@ -1,0 +1,19 @@
+{
+  "name": "servers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/Cwele/servers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cwele/servers/issues"
+  },
+  "homepage": "https://github.com/Cwele/servers#readme"
+}
